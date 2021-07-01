@@ -15,16 +15,24 @@ npm i axios
 npm install bootstrap
 ```
 
-##Pages 
+## Pages 
 
 Header [Header.js]  
-Movie site home page  with carousel [MovieScrollerCarousel]   
-Latest Movie page [MovieLatest.js]  
-Movie details page [MovieDetails.js]  
-Movie Booking page [TicketBooking.js]  
-Booking confirmation page [BookingConfirmation.js]  
-Upcoming movie page [MoviesUpcoming.js]  
-Events page [Events.js]  
+## Movie site home page  with carousel [MovieScrollerCarousel]   
+![MovieBookingHomePage](HomePage.png)
+## Latest Movie page [MovieLatest.js]  
+![LatestMovies](LatestMovies.png)
+## Movie details page [MovieDetails.js]  
+![MovieDetails](MovieDetails.png)
+## Movie Booking page [TicketBooking.js]  
+![TicketBooking] [TicketBooking.png]  
+## Booking confirmation page [BookingConfirmation.js] 
+![BookingConfirmation] BookingConfirmation.png]   
+## Upcoming movie page [MoviesUpcoming.js]  
+![UpcomingMovies] UpcomingMovies.png]  
+## Events page [Events.js]  
+![NearByEvents] NearByEvents.png]  
+
 
 
 
@@ -38,7 +46,7 @@ Events page [Events.js]
 ## License
 
 
-![MovieBookingHomePage](HomePage.png)
+
 
 # Getting Started with Create React App
 
