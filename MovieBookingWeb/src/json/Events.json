@@ -1,0 +1,72 @@
+{
+    "Events": [
+        {
+            "category": "MUSIC",
+            "place": {
+                "name": "STORY Miami",
+                "img": "https://s1.ticketm.net/dam/a/518/971b3e12-b253-4f8a-9896-874192c51518_1340071_RETINA_LANDSCAPE_16_9.jpg",
+                "location": {
+                    "zip": "33139",
+                    "city": "Miami Beach",
+                    "country": "United States",
+                    "street": "136 Collins Ave",
+                    "state": "FL"
+                },
+                "id": "239073682882493"
+            },
+            "id": "1948720375362241",
+            "start_time": "2017-05-05T22:00:00-0400"
+        },
+        {
+            "category": "Sport",
+            "place": {
+                "name": "STORY Dallas",
+                "img": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_EVENT_DETAIL_PAGE_16_9.jpg",
+                "location": {
+                    "zip": "33139",
+                    "city": "Plano",
+                    "country": "United States",
+                    "street": "136 Collins Ave",
+                    "state": "TX"
+                },
+                "id": "239073682882493"
+            },
+            "id": "1948720375362241",
+            "start_time": "2017-05-05T22:00:00-0400"
+        },
+        {
+            "category": "Education",
+            "place": {
+                "name": "STORY Newyork",
+                "img": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_16_9.jpg",
+                "location": {
+                    "zip": "33139",
+                    "city": "New Jersey",
+                    "country": "United States",
+                    "street": "136 Collins Ave",
+                    "state": "NJ"
+                },
+                "id": "239073682882493"
+            },
+            "id": "1948720375362241",
+            "start_time": "2017-05-05T22:00:00-0400"
+        },
+        {
+            "category": "Running",
+            "place": {
+                "name": "Event Boston",
+                "img": "https://s1.ticketm.net/dam/a/c62/0636ff21-e369-4b8c-bee4-214ea0a81c62_1339761_RETINA_PORTRAIT_16_9.jpg",
+                "location": {
+                    "zip": "33139",
+                    "city": "Boston",
+                    "country": "United States",
+                    "street": "136 Collins Ave",
+                    "state": "MS"
+                },
+                "id": "239073682882493"
+            },
+            "id": "1948720375362241",
+            "start_time": "2017-05-05T22:00:00-0400"
+        }
+    ]
+}
