@@ -25,13 +25,13 @@ Header [Header.js]
 ## Movie details page [MovieDetails.js]  
 ![MovieDetails](MovieDetails.png)
 ## Movie Booking page [TicketBooking.js]  
-![TicketBooking] (TicketBooking.png)
+![TicketBooking](TicketBooking.png)
 ## Booking confirmation page [BookingConfirmation.js] 
-![BookingConfirmation] (BookingConfirmation.png)
+![BookingConfirmation](BookingConfirmation.png)
 ## Upcoming movie page [MoviesUpcoming.js]  
-![UpcomingMovies] (UpcomingMovies.png)
+![UpcomingMovies](UpcomingMovies.png)
 ## Events page [Events.js]  
-![NearByEvents] (NearByEvents.png)
+![NearByEvents](NearByEvents.png)
 
 
 
